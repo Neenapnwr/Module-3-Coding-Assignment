@@ -1,0 +1,69 @@
+body{
+	 font-family: cursive !important;
+}
+.our-menu {
+    padding: 30px;
+    font-size: 33px;
+    font-weight: 700;
+}
+.menu-item {
+    background: #444c539e;
+}
+p{
+	text-align: justify;
+	padding-bottom: 20px;
+	font-weight: 600;
+}
+h4{
+	padding: 10px;
+	font-weight: 600;
+	 font-size: 29px !important;
+}
+@media (min-width: 992px){
+.navbar-expand-lg .navbar-nav {
+    -ms-flex-direction: row;
+    flex-direction: row;
+    display: none;
+}
+}
+.navbar{
+    background-color: #444c539e;
+    padding: 21px;
+    border: 3px solid black ;
+    padding: 0px !important;
+}
+a.navbar-brand {
+    font-weight: 800;
+    font-size: 33px !important;
+    padding: 18px;
+}
+li.nav-item {
+    border-bottom: 2px solid black;
+    text-align: center;
+    font-size: 21px;
+}
+
+.mr-auto{
+	background: white !important;
+}
+.nav-link {
+    color: rgba(0, 0, 0, 0.95) !important;
+}
+.top-item {
+    border-top: 2px solid black;
+}
+  .navbar-light .navbar-toggler {
+    margin: 15px;
+}
+.bottom-item {
+    border-bottom: none !important;
+}
+.navbar-light .navbar-toggler {
+    border: 2px solid black !important;
+}
+.togg{
+  width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
+}
