@@ -10,13 +10,13 @@ body{
     background: #444c539e;
 }
 p{
-	text-align: justify;
-	padding-bottom: 20px;
-	font-weight: 600;
+	text-align: justify !important;
+	padding-bottom: 20px !important;
+	font-weight: 600 !important;
 }
 h4{
-	padding: 10px;
-	font-weight: 600;
+	padding: 10px !important;
+	font-weight: 600 !important;
 	 font-size: 29px !important;
 }
 @media (min-width: 992px){
